@@ -1,6 +1,6 @@
 ## 写在前面
 
-这是我的个人博客，内容遍及 IT、语言、设计及其他，欢迎点击 [![GitHub watchers](https://img.shields.io/github/watchers/LinLshare/Blog.svg?style=social&label=Watch&maxAge=2592000)](https://github.com/LinLshare/Blog/watchers/)订阅更新。
+这是我的个人博客，内容遍及 IT、语言、设计及其他，欢迎点击 [![GitHub watchers](https://img.shields.io/github/watchers/LinLshare/Blog.svg?style=social&label=Watch&maxAge=2592000)](https://github.com/LinLshare/Blog/subscription)订阅更新。
 
 ## 按图索骥
 

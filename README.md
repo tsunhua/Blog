@@ -1,8 +1,6 @@
 ## 写在前面
 
-这是我的个人博客，内容遍及 IT、语言、设计及其他，欢迎点击下方按钮订阅更新。
-
-<iframe src="https://ghbtns.com/github-btn.html?user=LinLshare&repo=Blog&type=watch&count=true&size=large&v=2" frameborder="0" scrolling="0" width="160px" height="30px"></iframe>
+这是我的个人博客，内容遍及 IT、语言、设计及其他，欢迎点击 [![GitHub watchers](https://img.shields.io/github/watchers/LinLshare/Blog.svg?style=social&label=Watch&maxAge=2592000)](https://github.com/LinLshare/Blog/watchers/)订阅更新。
 
 ## 按图索骥
 

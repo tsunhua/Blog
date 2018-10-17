@@ -16,6 +16,7 @@
 | 4    | [Vim 小记 ](https://github.com/LinLshare/Blog/issues/18)     | 🌗    |
 | 5    | [IDEA 小记 ](https://github.com/LinLshare/Blog/issues/22)    | 🌗    |
 | 6    | [SSH 登录须知 ](https://github.com/LinLshare/Blog/issues/29) | 🌕    |
+| 7    | [Git 实战记录](https://github.com/LinLshare/Blog/issues/32)  | 🌗    |
 
 #### 1.2 Java
 
